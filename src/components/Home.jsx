@@ -1,6 +1,4 @@
 import './Home.css';
-import { FaArrowDown } from "react-icons/fa";
-
 
 const Home = () => {
   return (
@@ -18,22 +16,19 @@ const Home = () => {
             </div>
             <div className="download-btn">
               <div className="apple">
-                <a href="#"><img src="images/download-apple.svg" alt=""/></a>
+                <a href="#"><img src="images/download-apple.SVG" alt=""/></a>
               </div>
               <div className="android">
-                <a href="#"><img src="images/download-google.svg" alt=""/></a>
+                <a href="#"><img src="images/download-google.SVG" alt=""/></a>
               </div>
             </div>
           </div>
         </div>
         <div className="home-image">
           <div className="home-text2">
-            <img src="\images\homehero.png" alt="" />
+            <img src="\images\homehero.PNG" alt="" />
           </div>
           <div className="home-circle2"></div>
-        </div>
-        <div class="scroll-btn">
-           <a href="/about"><FaArrowDown/></a>
         </div>
       </div>
     </div>
@@ -41,4 +36,3 @@ const Home = () => {
 }
 
 export default Home;
-<img src="\images\homehero.png" alt="" />

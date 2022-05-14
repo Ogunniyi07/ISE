@@ -103,7 +103,9 @@
     list-style:none;
     z-index: 888;
     padding-bottom: 340px;
-    background:#f8f9fa;
+    background:#fff;
+    opacity: 5;
+    filter: blur(0px);
     transition: all 0.5s ease;
   
   }

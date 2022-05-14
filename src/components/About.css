@@ -294,6 +294,10 @@
     .about-goal .card{
         width:75%;
     }
+    .about-btn button{
+        width:50%;
+        height:8vh;
+    }
     .sponsor-card-row .sponsor-card{
         width:50%;
     }
@@ -357,6 +361,10 @@
     .sponsor-card-row .sponsor-card{
         width:80%;
     }
+    .about-btn button{
+        width:80%;
+        height:8vh;
+    }
 }
     @media only screen and (max-width: 400px){
     .abouthero-text{
@@ -393,6 +401,10 @@
     }
     .sponsor-card-row .sponsor-card{
         width:100%;
+    }
+    .about-btn button{
+        width:100%;
+        height:8vh;
     }
 }
 
