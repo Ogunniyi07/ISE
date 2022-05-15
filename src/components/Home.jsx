@@ -1,3 +1,4 @@
+import React from "react";
 import './Home.css';
 
 const Home = () => {
@@ -12,7 +13,7 @@ const Home = () => {
             <p>With Ise you get to hire extra help to do those things you dont have the strength for.</p>
             </div>
             <div className="home-btn">
-              <a href="signup"><button className="home-signup">Register Now</button></a>
+              <a href="#"><button className="home-signup">Register Now</button></a>
             </div>
             <div className="download-btn">
               <div className="apple">
